@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Red Runner
 
 Red Runner, Awesome Platformer Game.
@@ -89,3 +90,6 @@ Also you can the build version of the Red Runner using the following ways:
 MIT @ [Bayat Games](https://github.com/BayatGames)
 
 Made with :heart: by [Bayat Games](https://github.com/BayatGames)
+=======
+# Red_Runner_Game
+>>>>>>> d404bec3a08735a3de1ad0ca3f272832dc3a0df2
